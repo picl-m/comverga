@@ -1,6 +1,6 @@
-# nodejs REST API
+# Nodejs REST API
 
-Sample nodejs REST API with MySQL database and token authorization.
+Nodejs REST API with MySQL database and token authorization.
 
 ## Specifications
 - Backend: express, mysql2
